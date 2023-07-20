@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajeetram&show_icons=true&locale=en&layout=compact" alt="ajeetram" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajeetram&show_icons=true&locale=en" alt="ajeetram" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajeetram&" alt="ajeetram" /></p>
