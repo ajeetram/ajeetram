@@ -1,24 +1,70 @@
 <h1 align="center">Hi 👋, I'm Ajeet Ram Verma</h1>
-<h3 align="center">A passionate Software Engineer Developer from India</h3>
-<img align="right" width="400" alt="coding gif" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeetram&label=Profile%20views&color=0e75b6&style=flat" alt="ajeetram" /> </p>
+<h3 align="center">Software Engineer | Backend & Full Stack Development | Blockchain</h3>
 
-- 📫 How to reach me **ajeetramverma10@gmail.com**
-
-- ⚡ Fun fact **If you see any SDE engineer face is smiling that means he/she has done his/her project recently.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ajeet-ram-verma-953605244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajeet-ram-verma-953605244/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jeetu_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeetu_123" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ajeetramverma10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajeetramverma10" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajeetram&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img align="right" width="350" alt="Developer coding animation" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajeetram&show_icons=true&locale=en&layout=compact" alt="ajeetram" /></p>
+### 👨‍💻 About Me
 
+- 💼 Full Stack Blockchain Developer at **Edubuk**, building backend services, integrations, and Web3 applications.
+- ⚙️ Working with **Node.js, TypeScript, Express, Fastify, PostgreSQL, and MongoDB** to build REST APIs and application workflows.
+- 🔐 Interested in secure backend development: **authentication, authorization, role-based access control, input validation, and API security**.
+- 🔄 Building asynchronous workflows with **Redis, BullMQ, and RabbitMQ**.
+- 🔌 Experience integrating **DigiLocker, Okto Wallet, Synaps KYC, and HashiCorp Vault**.
+- ☁️ Deploying services with **Microsoft Azure, Docker, and CI/CD pipelines**.
+- ⛓️ Developing smart contracts with **Solidity, Hardhat, Ethers.js, and OpenZeppelin** across EVM-compatible networks.
+- 🧩 Practicing **data structures and algorithms in C++**.
+- 📫 Reach me at **ajeetramverma10@gmail.com**.
 
+<br clear="right" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajeetram&" alt="ajeetram" /></p>
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=cpp,js,ts,python,solidity,html,css)
+
+**Backend & Databases**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,fastify)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
+
+**Cloud, DevOps & Tools**
+
+![Tools](https://skillicons.dev/icons?i=azure,docker,git,github,vercel,firebase)
+
+**Additional technologies:** BullMQ · RabbitMQ · HashiCorp Vault · JWT · REST APIs · OAuth · DigiLocker · Hardhat · Ethers.js · OpenZeppelin · IPFS · Okto Wallet
+
+### 🚀 What I've Worked On
+
+- **Secure credential workflows:** Backend APIs supporting candidate document submission, issuer review, and credential verification, with role-aware access controls.
+- **Backend processing:** Redis/BullMQ-based CV indexing jobs and RabbitMQ-based asynchronous blockchain transaction processing.
+- **Integrations:** DigiLocker credential retrieval, wallet integration, KYC verification, and secrets management.
+- **Blockchain:** Smart contracts for credential lifecycle operations and ERC-721 NFTs on EVM-compatible networks.
+- **Delivery:** Full-stack applications, Azure deployments, and CI/CD workflows.
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/ajeet-ram-verma-953605244/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/jeetu_123" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/ajeetramverma10" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajeetram&show_icons=true&hide_border=true" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajeetram&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ajeetram&hide_border=true" alt="GitHub contribution streak" />
+</p>
